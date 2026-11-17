@@ -5,7 +5,11 @@ Full-stack mobile & backend engineer (and 300-Level International Studies studen
 > *Most of my commercial products live in private repositories—this page showcases the live apps, verified engineering benchmarks, and open-source data/mobile projects you can inspect and run today.*
 
 [![Website](https://img.shields.io/badge/Website-saukimart.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://saukimart.com/)
-[![Email](https://img.shields.io/badge/Email-founder%40ramadanbot.app-0D9488?style=flat-square&logo=gmail&logoColor=white)](mailto:founder@ramadanbot.app)
+[![Email](https://img.shields.io/badge/Email-abdallah%40saukimart.com-0D9488?style=flat-square&logo=gmail&logoColor=white)](mailto:abdallah@saukimart.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2348164135836-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2348164135836)
+[![Call](https://img.shields.io/badge/Tel-%2B2348164135836-111827?style=flat-square&logo=phonepe&logoColor=white)](tel:+2348164135836)
+
+> **Open for Collaborations, Contract Works & Hiring:** Available for Flutter mobile engineering, Next.js/FastAPI backend systems, and AI-assisted product delivery. Reach out via [Email](mailto:abdallah@saukimart.com), [WhatsApp (`+2348164135836`)](https://wa.me/2348164135836), or call `+2348164135836`.
 
 ---
 
@@ -43,6 +47,7 @@ A native Flutter financial & VTU app (`88` Dart files, `142` commits) powered by
 - **Low-RAM Android OTP Draft Recovery:** Engineered a 20-minute dual-tier encrypted draft engine (`SharedPreferences` + hardware KeyStore via `FlutterSecureStorage` + Android `alwaysRetainTaskState="true"`) paired with idempotent backend responses so switching to SMS apps never wipes onboarding state.
 - **"Send When Online" Telco Resilience:** Built an HMAC-signed `retryToken` flow backed by self-chaining Google Cloud Tasks (3-minute retries, atomic lease for zero idle cost, and automatic 24-hour refund safety) for transient carrier outages.
 - **Sauki AI & Checkout Safety:** Pre-Gemini local express-buy intent parser for instant airtime/data orders, UUIDv4 idempotency keys + purchase mutexes, 4-digit PIN + biometric lock, and `39` automated Flutter tests.
+- **Web Performance (`saukimart.com` — Yellow Lab Tools `A · 94/100`):** `1.12 MB` total page weight, `38` requests, `576` DOM elements, `237 ms` total JS execution time, `0` JS errors, `0` 404s, `0` oversized images, and `0` HTTP/TLS issues.
 
 <p align="center">
   <img src="./assets/sauki_mart_web.jpg" alt="SaukiMart & Sauki Go Web Platform" width="90%" />
@@ -92,3 +97,14 @@ Native Flutter multi-vendor marketplace (`79` Dart files, `57` commits) sharing 
 A headless, schema-validated dataset pipeline and FastAPI JSON data service (`Python`, `SQLite FTS5`, `JSON Schema Draft 2020-12`, `Vercel`):
 - **Datasets:** `6,236` Quran ayahs (`114` surahs), `36,512` Hadith entries (`10` collections), `55,991` Umm al-Qura Hijri date mappings (`1343–1500 AH`), and `836` prayer time entries across all Nigerian cities/LGAs & global hubs.
 - **Pipeline:** UTF-8/NFC normalization (`scripts/build_db.py`), automated mojibake scanning (`verify_text_encoding.py`), SHA-256 `manifest.json` verification & JSON/JSONL exporter (`scripts/export_json.py`), OpenAPI `/docs` + `/redoc`, and automated `unittest`/CI verification.
+
+---
+
+## Let's Work Together
+
+Open to **technical collaborations, freelance/contract builds, and engineering roles** (Flutter, Next.js/TypeScript, FastAPI/Python, and AI-accelerated product delivery):
+
+- **Email:** [abdallah@saukimart.com](mailto:abdallah@saukimart.com)
+- **WhatsApp:** [+234 816 413 5836](https://wa.me/2348164135836)
+- **Phone / Call:** [+234 816 413 5836](tel:+2348164135836)
+
