@@ -50,12 +50,12 @@ A native Flutter financial & VTU app (`88` Dart files, `142` commits) powered by
 - **Web Performance (`saukimart.com` — Yellow Lab Tools `A · 94/100`):** `1.12 MB` total page weight, `38` requests, `576` DOM elements, `237 ms` total JS execution time, `0` JS errors, `0` 404s, `0` oversized images, and `0` HTTP/TLS issues.
 
 <p align="center">
-  <img src="./assets/sauki_mart_web.jpg" alt="SaukiMart & Sauki Go Web Platform" width="90%" />
+  <img src="./assets/sauki_mart_web.webp" alt="SaukiMart & Sauki Go Web Platform" width="90%" />
 </p>
 
 | Smart Wallet Home | Sauki AI Express Buy | Zero-Fee Transfer | Verified Receipt |
 | :---: | :---: | :---: | :---: |
-| <img src="./assets/sauki_go_wallet.png" width="190" alt="Smart Wallet Home" /> | <img src="./assets/sauki_go_ai.png" width="190" alt="Sauki AI Express Buy" /> | <img src="./assets/sauki_go_transfer.png" width="190" alt="Zero-Fee Transfer" /> | <img src="./assets/sauki_go_receipt.png" width="190" alt="Verified Receipt" /> |
+| <img src="./assets/sauki_go_wallet.webp" width="190" alt="Smart Wallet Home" /> | <img src="./assets/sauki_go_ai.webp" width="190" alt="Sauki AI Express Buy" /> | <img src="./assets/sauki_go_transfer.webp" width="190" alt="Zero-Fee Transfer" /> | <img src="./assets/sauki_go_receipt.webp" width="190" alt="Verified Receipt" /> |
 
 ---
 
@@ -75,7 +75,7 @@ An independent, bilingual (**English & Hausa**) Cupertino Flutter utility helpin
 
 | Home & Overview | Eligibility Checker | Repayment Calculator | Bilingual & About |
 | :---: | :---: | :---: | :---: |
-| <img src="./assets/nelfund_home.jpg" width="190" alt="My NELFund Home" /> | <img src="./assets/nelfund_eligibility.jpg" width="190" alt="Eligibility Checker" /> | <img src="./assets/nelfund_calculator.jpg" width="190" alt="Repayment Calculator" /> | <img src="./assets/nelfund_about.jpg" width="190" alt="About & Bilingual Toggle" /> |
+| <img src="./assets/nelfund_home.webp" width="190" alt="My NELFund Home" /> | <img src="./assets/nelfund_eligibility.webp" width="190" alt="Eligibility Checker" /> | <img src="./assets/nelfund_calculator.webp" width="190" alt="Repayment Calculator" /> | <img src="./assets/nelfund_about.webp" width="190" alt="About & Bilingual Toggle" /> |
 
 ---
 
